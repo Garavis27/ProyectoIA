@@ -1,0 +1,8 @@
+# Ignorar todo por defecto
+*
+
+# Permitir solo estos archivos
+!.gitignore
+!pipeline_eda_y_entrenamiento_grupo01.py
+!README.md
+!dataset_pacientes_cronicos_grupo01.csv
